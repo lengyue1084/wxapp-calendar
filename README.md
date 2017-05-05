@@ -1,3 +1,6 @@
 # wxapp-calendar
-实现的微信小程序日历,js大小只有几k,因为引入了bootstrap字体图标(文件icon.wxss)，所以看起来有80k,如果不需要可以去掉。整个只有几k
+实现的微信小程序日历,js大小只有几k,引入了bootstrap字体图标(文件icon.wxss,该字体已经bootstrap字体图标需要的字体)
+看起来有80k,出去icon.wxss整个只有几k
+
+
 ![image](https://github.com/lengyue1084/wxapp-calendar/blob/master/screenshots/1.png)
